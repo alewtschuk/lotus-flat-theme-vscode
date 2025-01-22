@@ -1,8 +1,8 @@
 {
-	"name": "lotus-theme",
-	"displayName": "Lotus Theme",
-	"publisher": "SkyLiss",
-	"description": "Lotus Theme for Visual Studio Code",
+	"name": "lotus-flat-theme",
+	"displayName": "Lotus Flat",
+	"publisher": "Alex Lewtschuk",
+	"description": "Custom modified version of SkyLish's Lotus Theme for Visual Studio Code",
 	"version": "1.1.4",
 	"engines": {
 		"vscode": "^1.50.0"
@@ -10,16 +10,16 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "assets/lotus-logo.png",
-	"homepage": "https://github.com/SkyLissh/lotus-theme-vscode",
+	"icon": "assets/lotus-flat-logo.png",
+	"homepage": "https://github.com/alewtschuk/lotus-flat-theme-vscode",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/SkyLissh/lotus-theme-vscode.git"
+		"url": "https://github.com/alewtschuk/lotus-flat-theme-vscode"
 	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "Lotus Dark",
+				"label": "Lotus Flat Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/lotus-dark-theme.json"
 			},
