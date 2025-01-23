@@ -10,7 +10,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "assets/lotus-flat-logo.png",
+	"icon": "assets/lotus-flat.png",
 	"homepage": "https://github.com/alewtschuk/lotus-flat-theme-vscode",
 	"repository": {
 		"type": "git",
@@ -22,11 +22,6 @@
 				"label": "Lotus Flat Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/lotus-dark-theme.json"
-			},
-			{
-				"label": "Lotus Light",
-				"uiTheme": "vs",
-				"path": "./themes/lotus-light-theme.json"
 			}
 		]
 	},
