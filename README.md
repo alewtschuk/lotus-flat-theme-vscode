@@ -4,7 +4,7 @@ A flat version of the _minimal zen theme_, based on the theme for JetBrains IDEs
 
 ---
 
-![Dark Screenshot](https://raw.githubusercontent.com/SkyLissh/lotus-theme-vscode/main/assets/screenshot-dark.png)
+![Dark Screenshot](https://github.com/alewtschuk/lotus-flat-theme-vscode/blob/main/assets/screenshot.png?raw=true)
 
 ---
 
