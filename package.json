@@ -10,7 +10,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "assets/lotus-flat.png",
+	"icon": "assets/logo-flat.png",
 	"homepage": "https://github.com/alewtschuk/lotus-flat-theme-vscode",
 	"repository": {
 		"type": "git",
