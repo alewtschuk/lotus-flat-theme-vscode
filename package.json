@@ -3,7 +3,7 @@
 	"displayName": "Lotus Flat",
 	"publisher": "alewtschuk",
 	"description": "Custom modified version of SkyLish's Lotus Theme for Visual Studio Code",
-	"version": "1.1.4",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.50.0"
 	},
