@@ -16,6 +16,18 @@
 		"type": "git",
 		"url": "https://github.com/alewtschuk/lotus-flat-theme-vscode"
 	},
+	"keywords": [
+		"syntax",
+		"theme",
+		"vscode",
+		"vscode-theme",
+		"lotus",
+		"jetbrains",
+		"syntax-highlighting",
+		"color",
+		"flat",
+		"dark-theme"
+	],
 	"contributes": {
 		"themes": [
 			{
