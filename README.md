@@ -13,3 +13,6 @@ A flat version of the _minimal zen theme_, based on the theme for JetBrains IDEs
 1. Go to `Extensions`
 2. Search for `Lotus Flat Theme` or go [here](https://marketplace.visualstudio.com/items?itemName=SkyLiss.lotus-theme) and click `Install`
 3. Select `Color Theme` and choose `Lotus Flat Dark`
+
+## Forked From Skylish's Lotus Theme
+[Original Theme](https://github.com/SkyLissh/lotus-theme-vscode)
