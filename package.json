@@ -1,7 +1,7 @@
 {
 	"name": "lotus-flat-theme",
 	"displayName": "Lotus Flat",
-	"publisher": "Alex Lewtschuk",
+	"publisher": "alewtschuk",
 	"description": "Custom modified version of SkyLish's Lotus Theme for Visual Studio Code",
 	"version": "1.1.4",
 	"engines": {
@@ -16,6 +16,18 @@
 		"type": "git",
 		"url": "https://github.com/alewtschuk/lotus-flat-theme-vscode"
 	},
+	"keywords": [
+		"syntax",
+		"theme",
+		"vscode",
+		"vscode-theme",
+		"lotus",
+		"jetbrains",
+		"syntax-highlighting",
+		"color",
+		"flat",
+		"dark-theme"
+	],
 	"contributes": {
 		"themes": [
 			{
