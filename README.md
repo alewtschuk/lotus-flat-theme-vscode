@@ -1,4 +1,4 @@
-![Lotus Logo](https://github.com/alewtschuk/lotus-flat-theme-vscode/blob/main/assets/logo-flat.png?raw=true)
+![Lotus Logo](https://github.com/alewtschuk/lotus-flat-theme-vscode/blob/main/assets/logo-flat.png?raw=true#center)
 
 A flat version of the _minimal zen theme_, based on the theme for JetBrains IDEs. [Lotus Theme](https://plugins.jetbrains.com/plugin/14369-lotus-theme)
 
