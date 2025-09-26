@@ -34,6 +34,16 @@
 				"label": "Lotus Flat Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/lotus-flat-dark-theme.json"
+			},
+			{
+				"label": "Lotus Flat Dusk",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lotus-flat-dusk-theme.json"
+			},
+			{
+				"label": "Lotus Flat Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lotus-flat-midnight-theme.json"
 			}
 		]
 	},
